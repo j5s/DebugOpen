@@ -30,12 +30,12 @@ Connection: close
 title=%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A&description=%0A++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%3Cp%3E%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E&cid=24&cid1=24&cid2=0&cid3=0&tokenkey=a75a225c20fce4dbffadeef123504018&tags=&givescore=0&hidanswer=0&askfromuid=0
 ```
 >verification:
-![Alt text](whatsns4.0/1/2.png)
+![Alt text](/whatsns4.0/1/2.png)
 
 
 ## 2.$qid variable
 >URL:http://127.0.0.1/whatsns/index.php?admin_category/default.html
-![Alt text](whatsns4.0/1/3.png)
+![Alt text](/whatsns4.0/1/3.png)
 
 
 * POST:
@@ -60,11 +60,11 @@ qid=5&aid=0&qtitle=Try+to+hack+the+world%2Cbelieve+yourself%2Cyour+heart+on+road
 ```
 
 > verification£º
-![Alt text](whatsns4.0/1/4.png)
+![Alt text](/whatsns4.0/1/4.png)
 
 ## 3.$cid variable
 >URL£ºReport page
-![Alt text](whatsns4.0/1/5.png)
+![Alt text](/whatsns4.0/1/5.png)
 
 * POST:
 
@@ -88,4 +88,4 @@ hiddencid=0&cid%5B%5D=2&corder2=0&order%5B%5D=2&corder1=1&order%5B%5D=1
 ```
 
 >verification£º
-![Alt text](whatsns4.0/1/6.png)
+![Alt text](/whatsns4.0/1/6.png)
