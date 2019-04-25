@@ -9,7 +9,7 @@
 
 ##1. $title variable
 >URL:http://127.0.0.1/whatsns/index.php?question/add.html
-![Alt text](whatsns4.0/1/1.png)
+![Alt text](/whatsns4.0/1/1.png)
 
 * POST:
 ```
