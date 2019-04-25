@@ -7,7 +7,7 @@
 
 ---
 
-##1. $title variable
+## 1. $title variable
 >URL:http://127.0.0.1/whatsns/index.php?question/add.html
 ![Alt text](/whatsns4.0/1/1.png)
 
@@ -63,7 +63,7 @@ qid=5&aid=0&qtitle=Try+to+hack+the+world%2Cbelieve+yourself%2Cyour+heart+on+road
 ![Alt text](/whatsns4.0/1/4.png)
 
 ## 3.$cid variable
->URL£ºReport page
+>URL:Report page
 ![Alt text](/whatsns4.0/1/5.png)
 
 * POST:
