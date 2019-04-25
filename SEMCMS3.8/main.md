@@ -1,4 +1,4 @@
-#SEMCMS SQLINJECT
+# SEMCMS SQLINJECT
 
 ---
 
@@ -10,9 +10,9 @@
 ## VID[] SQLINJECT
 
 >URL: http://127.0.0.1/123/sOWj5B_Admin/SEMCMS_Inquiry.php
-![Alt text](./1.png)
+![Alt text](/SEMCMS3.8/img/1.png)
 >Debug：Defense module is class.phpmailer.php and function inject_check_sql
-![Alt text](./2.png)
+![Alt text](/SEMCMS3.8/img/2.png)
 >But VID[] didn't handle it
 
 * POST:
@@ -35,4 +35,4 @@ Connection: close
 languageID=&AID%5B%5D=3
 ```
 >verification:
-![Alt text](./3.png)
+![Alt text](/SEMCMS3.8/img/3.png)
