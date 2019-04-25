@@ -59,7 +59,7 @@ Connection: close
 qid=5&aid=0&qtitle=Try+to+hack+the+world%2Cbelieve+yourself%2Cyour+heart+on+road%2Cyou+can+open+most+door+and+hit+god+windos+any+hit+her%2Cbecause+you+is+god.&type=5&content=%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A%E5%95%8A
 ```
 
-> verification£º
+> verification:
 ![Alt text](/whatsns4.0/1/4.png)
 
 ## 3.$cid variable
@@ -87,5 +87,5 @@ Connection: close
 hiddencid=0&cid%5B%5D=2&corder2=0&order%5B%5D=2&corder1=1&order%5B%5D=1
 ```
 
->verification£º
+>verification:
 ![Alt text](/whatsns4.0/1/6.png)
