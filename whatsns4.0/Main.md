@@ -2,7 +2,7 @@
 
 ---
 
-* Project official£ºhttps://www.whatsns.com
+* Project official: https://www.whatsns.com
 * project address:   https://gitee.com/huangyouzhi/whatsns
 
 ---
