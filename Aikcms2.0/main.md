@@ -2,7 +2,7 @@
 
 ---
 
-* Project official£ºhttp://www.aikcms.com
+* Project officialï¼šhttp://www.aikcms.com
 * project address:   http://www.aikcms.com
 
 ---
@@ -10,9 +10,9 @@
 ## del SQLINJECT
 
 >URL: http://127.0.0.1/admin/page/union/ad_list.php?del=5
-![Alt text](./2.png)
->Debug£ºAlmost all code involving the delete function has security issues eg:/admincore/nav.php
-![Alt text](./8.png)
+![Alt text](/Aikcms2.0/2.png)
+>DebugÂ£ÂºAlmost all code involving the delete function has security issues eg:/admincore/nav.php
+![Alt text](/Aikcms2.0/8.png)
 
 * POST:
 ```
@@ -28,17 +28,17 @@ Cookie: adminname=admin; MEIQIA_EXTRA_TRACK_ID=1F7WZdk3rwHIzKqUfkrNaZ9t1EE; _ga=
 Connection: close
 ```
 >verification:
-![Alt text](./7.png)
+![Alt text](/Aikcms2.0/7.png)
 
 ## File upload vulnerability
 
 >URL:Upload function page
-![Alt text](./1.png)
+![Alt text](/Aikcms2.0/1.png)
 >debug:Almost all code involving the update function has security issues eg:/admincore/nav.php
-![Alt text](./4.png)
+![Alt text](/Aikcms2.0/4.png)
 
 * POST
-![Alt text](./5.png)
+![Alt text](/Aikcms2.0/5.png)
 
 >verification:
-![Alt text](./6.png)
+![Alt text](/Aikcms2.0/6.png)
