@@ -10,7 +10,9 @@
 ## del SQLINJECT
 
 >URL: http://127.0.0.1/admin/page/union/ad_list.php?del=5
+
 ![Alt text](/Aikcms2.0/img/2.png)
+
 >Debug:Almost all code involving the delete function has security issues eg:/admincore/nav.php
 ![Alt text](/Aikcms2.0/img/8.png)
 
