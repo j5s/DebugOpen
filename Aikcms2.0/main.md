@@ -14,6 +14,8 @@
 ![Alt text](/Aikcms2.0/img/2.png)
 
 >Debug:Almost all code involving the delete function has security issues eg:/admincore/nav.php
+
+
 ![Alt text](/Aikcms2.0/img/8.png)
 
 * POST:
@@ -30,17 +32,23 @@ Cookie: adminname=admin; MEIQIA_EXTRA_TRACK_ID=1F7WZdk3rwHIzKqUfkrNaZ9t1EE; _ga=
 Connection: close
 ```
 >verification:
+
 ![Alt text](/Aikcms2.0/img/7.png)
 
 ## File upload vulnerability
 
 >URL:Upload function page
+
 ![Alt text](/Aikcms2.0/img/1.png)
+
 >debug:Almost all code involving the update function has security issues eg:/admincore/nav.php
+
 ![Alt text](/Aikcms2.0/img/4.png)
 
 * POST
+
 ![Alt text](/Aikcms2.0/img/5.png)
 
 >verification:
+
 ![Alt text](/Aikcms2.0/img/6.png)
