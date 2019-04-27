@@ -35,7 +35,7 @@ Connection: close
 >URL:Upload function page
 ![Alt text](/Aikcms2.0/img/1.png)
 >debug:Almost all code involving the update function has security issues eg:/admincore/nav.php
-![Alt text](/Aikcms2.0/4.png)
+![Alt text](/Aikcms2.0/img/4.png)
 
 * POST
 ![Alt text](/Aikcms2.0/img/5.png)
