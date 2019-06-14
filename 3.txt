@@ -1,0 +1,15 @@
+POST /checkUpline HTTP/1.1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: https://148.66.52.155/signup
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: 148.66.52.155
+Content-Length: 23
+Connection: close
+Cache-Control: no-cache
+Cookie: PHPSESSID=9q5a1ehalcldj9pqm4g2isj703; laravel_session=eyJpdiI6IkdnM1pkRFJHWE1mZFM0UEkrbXZlcUE9PSIsInZhbHVlIjoiK2V6aUJrZU9RZWNuSVdVK3pMZ0xCMEpYOHNsY3REYnQ0bFJkbEZTTUZwY0RYcEhsUndUemJTcEZTSzI3MjVERkFZY3BSK2JsQ1dISjRBU1hGeFFGTnc9PSIsIm1hYyI6IjI4Nzg1ZThhYzhhNjgxMWY3OGFmZWM5OTZlZTc1NGI5ZTdjMGNiYTU2ZDI5NzM4M2Q2NjU2MmVjOGNhN2Y5N2IifQ%3D%3D; 70bcbdc1a62a3377138a0334086aa7bde5e266d8=eyJpdiI6IlFLOERld3RXSGxcL1FzUE15VXdZSndRPT0iLCJ2YWx1ZSI6ImV1Vk5od2NDQmRkZ1dKeDA1eEttTFNOWkZ4ZlNwZklrMDIyeFMrVTNlWk1odkVya3F3VERSQ3lnR3FkbkhpMjJscTg1eStUMmF4WTlmNmx2cVRmTlM3VFwvN0Vham84S1wvM1l4MHJGenhwTGZsTTRuQmEyR3psNWp2UzFUM2tVMGJZcFlLaEZZVkFPeHhwcDc2akdVVUJPeWQ4YVNnOXVJaGNNVmtOTUFsc05cLzZIcnJTbnJ0ZFZkTGVIRVZnXC9PaVdRazF6MG1wbHkwZXdwVFwvek9JXC9vTkJXRWFlU09cL3RKcjVsUXE4eDh1aWQyRmw2alhOM1ZvdVdROCtxZ093bGhhZ1Exdm45NUQwUTl4cXlMZE1qeEZpT1RSUVdQZkRaRmFIZzZNYjRDS2dRVk5MUTRUTG9PRkxMYnd3NkRFajRhdSIsIm1hYyI6IjVkMjlhNmM2MWY5MmI1YzE5MzUwMjQwNWU4NTczNjQ5ZWM0MzAzZTQ2YTdjNjkyZjAxZjFhYjNhZjhjMmQxNmYifQ%3D%3D
+
+sponser=123&upline=1231
